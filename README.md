@@ -2,7 +2,8 @@
 
 Link do curso: 
 <ul>
-<li> https://loiane.training/continuar-curso/crud-angular-spring </li> 
+<li> Plataforma: https://loiane.training/continuar-curso/crud-angular-spring </li> 
+<li> YouTube https://www.youtube.com/watch?v=qJnjz8FIs6Q&list=PLGxZ4Rq3BOBpwaVgAPxTxhdX_TfSVlTcY </li> 
 </ul>
 
 <h3> Introdução </h3> 
