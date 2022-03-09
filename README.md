@@ -6,23 +6,23 @@ Link do curso:
 </ul>
 
 <h3> Introdução </h3> 
-Introdução e Criação do Projeto Angular
-Overview do Projeto e Instalando o Angular Material
-Criando uma Toolbar na Página Principal
-Criando o Módulo de Cursos e Usando Roteamento com Lazy Loading
-Customizando o Tema do Angular Material
+<li> Introdução e Criação do Projeto Angular </li> 
+<li> Overview do Projeto e Instalando o Angular Material </li> 
+<li> Criando uma Toolbar na Página Principal </li> 
+<li> Criando o Módulo de Cursos e Usando Roteamento com Lazy Loading </li> 
+<li> Customizando o Tema do Angular Material </li> 
 
 <h3> Angular </h3>
-Criando Material Table para Listar Cursos
-CSS do Material Table e Criando um Módulo App Material
-Criando um Service no Angular
-Chamada HTTP Get no Angular e RXJS
-Lista de Cursos: Spinner (Carregando)
-Lista de Cursos: Tratamento de Erros e MatDialog
-Lista de Cursos: Pipe para mostrar ícone
+<li> Criando Material Table para Listar Cursos </li> 
+<li> CSS do Material Table e Criando um Módulo App Material </li> 
+<li> Criando um Service no Angular </li> 
+<li> Chamada HTTP Get no Angular e RXJS </li> 
+<li> Lista de Cursos: Spinner (Carregando) </li> 
+<li> Lista de Cursos: Tratamento de Erros e MatDialog </li> 
+<li> Lista de Cursos: Pipe para mostrar ícone </li> 
 
 <h3> Backend com Spring </h3>
-Ambiente Java + Maven para Spring
-Hello World com Spring
-Listar Cursos (API HTTP GET)
-Banco de Dados H2 e Conectando o Angular na API Spring
+<li> Ambiente Java + Maven para Spring </li> 
+<li> Hello World com Spring </li> 
+<li> Listar Cursos (API HTTP GET) </li> 
+<li> Banco de Dados H2 e Conectando o Angular na API Spring </li> 
